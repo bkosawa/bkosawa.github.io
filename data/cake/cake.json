@@ -1,0 +1,44 @@
+{
+	"contactInfo": {
+		"phone": "555 555 555",
+		"email": "cake@cakery.com"
+	},
+	"menu": [
+		{
+			"id": 0,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/0/pic.png"
+		},
+		{
+			"id": 1,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/1/pic.png"
+		},
+		{
+			"id": 2,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/2/pic.png"
+		}
+		,{
+			"id": 3,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/3/pic.png"
+		}
+		,{
+			"id": 4,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/4/pic.png"
+		}
+		,{
+			"id": 5,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/5/pic.png"
+		}
+		,{
+			"id": 6,
+			"name": "Chocolate Cake",
+			"pic": "https://bkosawa.github.io/data/cake/6/pic.png"
+		}			
+	]
+
+}
